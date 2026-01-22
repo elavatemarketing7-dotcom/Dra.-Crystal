@@ -1,0 +1,8 @@
+{
+  "name": "Dra. Crystal Santos - Harmonização Facial Premium",
+  "description": "Landing page de alta conversão para procedimentos de harmonização facial, focada em autoridade e exclusividade.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
